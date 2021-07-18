@@ -13,5 +13,5 @@ no network connectivity.
 - The application is be built using Kotlin, MVVM, Retrofit and Android
 Architecture Components.
 Screenshot
-![Screenshot_2](https://user-images.githubusercontent.com/45339051/126064369-a2ccf84a-b9f6-4d84-a7bd-0ac226d48f04.jpg)
+<img src="https://github.com/JatinThakur2/iTune/blob/master/Screenshot/Screenshot_2.jpg" width="200"/>
 
