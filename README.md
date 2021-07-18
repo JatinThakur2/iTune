@@ -12,3 +12,5 @@ data locally, View models (MVVM Architecture) and Retrofit for networking.
 no network connectivity.
 - The application is be built using Kotlin, MVVM, Retrofit and Android
 Architecture Components.
+Screenshot
+❮img src="Screenshot/Screenshot_2.png" width="100" ❯
